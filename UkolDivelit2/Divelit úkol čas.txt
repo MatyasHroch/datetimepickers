@@ -1,0 +1,62 @@
+:Divelit úkol čas
+
+8:50 - 9:05 čtení zadání a rozhodnutí posuvník vyřešit až později, ale vypadá to, že jde jen o to, které datum/čas se vude měnit
+
+09:05 -  9:20  hledání v dokumentaci jak se vytváří komponenta datetimepicker, instalace knihovny a přidání do xamlu
+9 :20 9: 30 zjisteni, ze mam používat main window a pak teda vycisteni App a pokus o vytvoreni datetime pickeru
+
+Nerozpoznává to tu komponentu
+Příkaz "Install" není platný.
+
+7 minut se snaziv vykreslit datetime picker a celkove uz 45 minut vlastne …
+
+aha, takze nuget to nainstaluje ale pak se musí do konzole spravcu balicku napsat
+pak teda snad ještě zbuildit…
+
+9:37 
+
+9:45 mam vykreslene dva datetime pickery, muzu je tedka asi nastavit na vychozi hodnoty
+
+pauza do 10 15 
+
+TAAK vůbec to nefunguje zjišťuju.
+Na obrazku to vypada dobře, ale jednat to chce licenci a jednat to není správne takze nevim , jdu zalozit novy projekt a dam i to na github
+
+po pulhodine hledani zjišťuju ze timepicker vůbec není ve WPF, to je dost spatne…
+
+takže zkusim materiál design
+
+
+najednou je o hodinu vic, a mam teda dva daty, ale ne casy to jako bude sranda ještě
+
+Two way binding, stahování a instalace NuGet. Rebuildění se musí, protože jinak nic.
+No a Visual Studio 2022, snad se sžiju no...
+
+
+
+Uplne jiny den:
+9:12 - 9:17 PROSEL JSEM SI KOD
+9:17 - 9:20 hledám editable progress bar
+9:20 zjišťuju zeje to slider
+9:24 vytvoreny slider, da se s nim hýbat
+9:30 pripravene metody a tak
+10:20 připravuju metody porad
+
+az to 11ti asi
+
+pak další dve hodky ten slider propojit a zprovoznit jeho posouvani a text 
+
+pak 2 hodiny to uklizim
+
+pak 2 hodiny propojuju
+
+pak 1 hodku vymyslim novou flow
+
+no a pak další hodku testovani te nove eventy, preview mouse up
+
+ted 12 hodin
+
+zkusim se dostat pod 20 a poslat to
+
+
+
